@@ -88,7 +88,7 @@ Alamat dashboard dapat diakses melalui IP Address yang ditampilkan pada LCD.
 
 Contoh:
 
-http://192.168.100.239
+http://192.168.100.123
 📈 Dashboard
 
 Dashboard menyediakan informasi secara real-time mengenai:
